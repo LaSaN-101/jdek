@@ -2,7 +2,7 @@
 ## A open source bluetooth macropad with 30 buttons and programmable 3.5 inch touch lcd display
 
 
-![CAD Image](image.png)
+![CAD Image](image.png =250x154)
 
 CAD files were created in Fusion and are intended to be laser cut.
 I hade 3mm clear acrylic sheet in mind when designing.
