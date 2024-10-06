@@ -1,7 +1,7 @@
 # Welcome to JDEK
 ## A open source bluetooth macropad with <br> 30 buttons and programmable 3.5 inch touch lcd display
 
-<img src="image.png" width="480" height="320">
+<img src="cadmodel.png" width="480" height="320">
 
 CAD files were created in Fusion and are intended to be laser cut.
 I hade 3mm clear acrylic sheet in mind when designing.
