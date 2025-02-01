@@ -1,4 +1,4 @@
-![Screenshot 2025-02-01 225132](https://github.com/user-attachments/assets/dc653433-6df0-49e9-9b65-61813ffa617c)# Welcome to JDEK
+# Welcome to JDEK
 ## An open source macropad with <br> 30 buttons and programmable 3.5 inch touch lcd display
 
 <img src="/Images/1.jpg" width="480" height="320">
