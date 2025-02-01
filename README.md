@@ -1,5 +1,5 @@
 # Welcome to JDEK
-## A open source bluetooth macropad with <br> 30 buttons and programmable 3.5 inch touch lcd display
+## An open source macropad with <br> 30 buttons and programmable 3.5 inch touch lcd display
 
 <img src="cadmodel.png" width="480" height="320">
 
