@@ -52,7 +52,7 @@ share the program but I downloaded it for free so i dont think it will be an iss
 You can find the source files and gerber files in PCB folder but be warned,
 As I have not printed the PCB as it was expensive and went the route of hand wiring everything.
 
-<img src="/Images/4.jpg" width="480" height="320"> <img src="/Images/5.jpg" width="480" height="320">
+<img src="/Images/4.png" width="480" height="320"> <img src="/Images/5.png" width="480" height="320">
 
 <img src="/Images/8.jpg" width="480" height="320"> <img src="/Images/9.jpg" width="480" height="320"> 
 <img src="/Images/6.jpg" width="480" height="320"> <img src="/Images/7.jpg" width="480" height="320">
