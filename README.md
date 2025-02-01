@@ -42,10 +42,7 @@ share the program but I downloaded it for free so i dont think it will be an iss
 
 ## Finished Look with my setup
 
-<img src="/Images/2.jpg" width="480" height="320">
-
-
-<img src="/Images/3.jpg" width="480" height="320">
+<img src="/Images/2.jpg" width="480" height="320"> <img src="/Images/3.jpg" width="480" height="320">
 
 ### PCB Section (⚠️Warning⚠️ Not Checked)
 
