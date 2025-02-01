@@ -1,7 +1,7 @@
 # Welcome to JDEK
 ## An open source macropad with <br> 30 buttons and programmable 3.5 inch touch lcd display
 
-<img src="/Imgaes/1.jpg" width="480" height="320">
+<img src="/Images/1.jpg" width="480" height="320">
 
 There are two main folders for Code and CAD files.
 
@@ -42,7 +42,7 @@ share the programme but I downloaded it for free so i dont think it will be an i
 
 ## Finished Look with my setup
 
-<img src="/Imgaes/2.jpg" width="480" height="320">
+<img src="/Images/2.jpg" width="480" height="320">
 
 
-<img src="/Imgaes/3.jpg" width="480" height="320">
+<img src="/Images/3.jpg" width="480" height="320">
